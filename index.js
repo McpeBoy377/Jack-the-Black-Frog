@@ -1,6 +1,6 @@
 Qconst Discord = require("discord.js");
 const bot = new Discord.Client();
-const token = "NTc4NTc4Mjc2MTUxMzI4NzY4.XN1p_Q.Wqwy-6sdjZvbkd1nONSao-ShcuA"
+const token = "put token here"
 var draw1;
 var draw2;
 var players = [];
